@@ -1,16 +1,19 @@
 ## Hello there stranger 👋
 
-<!--
-**IDKHowToDev/IDKHowToDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI major** who loves diving into anything that sparks my curiosity —  
+machine learning, data science, MLOps, VR experiments, weird side-projects, you name it.
 
-Here are some ideas to get you started:
+I enjoy building things that actually work, breaking things that shouldn’t break,  
+and avoiding JavaScript at all costs (it's personal).
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning AI and data science
+### 🌱 What I’m into
+- Artificial Intelligence & Deep Learning  
+- Data Engineering / MLOps pipelines  
+- App & Web development (the parts that *don’t* involve typesript or very little javascript 😄)  
+- Small experiments that turn into big projects  
 
-- 🤔 I’m looking for help with some java projects 😄
-- 💬 Ask me about app and web develpment
+### 🔭 What I'm looking for
+Anything fun, challenging, or just interesting enough to make me forget to sleep.
 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i like to watch anime
--->
+### 💬 Feel free to reach out
+If you want to collaborate, talk tech, or throw a random idea at me — I'm always listening.
