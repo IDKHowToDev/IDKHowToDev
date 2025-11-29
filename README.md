@@ -9,7 +9,7 @@ and avoiding JavaScript at all costs (it's personal).
 ### 🌱 What I’m into
 - Artificial Intelligence & Deep Learning  
 - Data Engineering / MLOps pipelines  
-- App & Web development (the parts that *don’t* involve typesript or very little javascript 😄)  
+- App & Web development (the parts that involve typesript or very little javascript 😄)  
 - Small experiments that turn into big projects  
 
 ### 🔭 What I'm looking for
